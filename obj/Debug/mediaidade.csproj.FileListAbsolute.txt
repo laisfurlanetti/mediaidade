@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\mediaidade\bin\Debug\mediaidade.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\mediaidade\bin\Debug\mediaidade.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\mediaidade\bin\Debug\mediaidade.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\mediaidade\obj\Debug\mediaidade.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\mediaidade\obj\Debug\mediaidade.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\mediaidade\obj\Debug\mediaidade.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios repeticao\mediaidade\obj\Debug\mediaidade.pdb

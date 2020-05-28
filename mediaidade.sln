@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mediaidade", "mediaidade.csproj", "{FA58E74C-9800-45FE-8582-FAD92622E994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA58E74C-9800-45FE-8582-FAD92622E994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA58E74C-9800-45FE-8582-FAD92622E994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA58E74C-9800-45FE-8582-FAD92622E994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA58E74C-9800-45FE-8582-FAD92622E994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A30C36-9A83-4D23-AB28-617F35F87DBE}
+	EndGlobalSection
+EndGlobal
